@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j/zcgXzhMXMPCs5LxWr2sa50YOb0c8T8E+BK8K7VLe4=",
+  "Source": "StoreDatabaseAPI",
+  "BasePath": "_content/StoreDatabaseAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

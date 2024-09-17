@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP NET\u4F5C\u54C1\u96C6\\StoreDatabaseAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B271D95-670F-4831-9DC7-A9EFD25D5426}|StoreDatabaseAPI\\StoreDatabaseAPI.csproj|c:\\asp net\u4F5C\u54C1\u96C6\\storedatabaseapi\\storedatabaseapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B271D95-670F-4831-9DC7-A9EFD25D5426}|StoreDatabaseAPI\\StoreDatabaseAPI.csproj|solutionrelative:storedatabaseapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B271D95-670F-4831-9DC7-A9EFD25D5426}|StoreDatabaseAPI\\StoreDatabaseAPI.csproj|c:\\asp net\u4F5C\u54C1\u96C6\\storedatabaseapi\\storedatabaseapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B271D95-670F-4831-9DC7-A9EFD25D5426}|StoreDatabaseAPI\\StoreDatabaseAPI.csproj|solutionrelative:storedatabaseapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\ASP NET\u4F5C\u54C1\u96C6\\StoreDatabaseAPI\\StoreDatabaseAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "StoreDatabaseAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\ASP NET\u4F5C\u54C1\u96C6\\StoreDatabaseAPI\\StoreDatabaseAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "StoreDatabaseAPI\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:11:26.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\ASP NET\u4F5C\u54C1\u96C6\\StoreDatabaseAPI\\StoreDatabaseAPI\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "StoreDatabaseAPI\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\ASP NET\u4F5C\u54C1\u96C6\\StoreDatabaseAPI\\StoreDatabaseAPI\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "StoreDatabaseAPI\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAADaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:51:36.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

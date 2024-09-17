@@ -1,0 +1,14 @@
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\bin\Debug\WebAPI using HttpClient.exe.config
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\bin\Debug\WebAPI using HttpClient.exe
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\bin\Debug\WebAPI using HttpClient.pdb
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\bin\Debug\Newtonsoft.Json.dll
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\bin\Debug\Newtonsoft.Json.xml
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\obj\Debug\WebAPI using HttpClient.csproj.AssemblyReference.cache
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\obj\Debug\WebAPI_using_HttpClient.FormCashier.resources
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\obj\Debug\WebAPI_using_HttpClient.FormMakeOrders.resources
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\obj\Debug\WebAPI_using_HttpClient.Properties.Resources.resources
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\obj\Debug\WebAPI using HttpClient.csproj.GenerateResource.cache
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\obj\Debug\WebAPI using HttpClient.csproj.CoreCompileInputs.cache
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\obj\Debug\WebAPI u.5E0ACB79.Up2Date
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\obj\Debug\WebAPI using HttpClient.exe
+C:\ASP NET作品集\WebAPI using HttpClient\WebAPI using HttpClient\obj\Debug\WebAPI using HttpClient.pdb

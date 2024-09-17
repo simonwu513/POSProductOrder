@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|c:\\asp net\u4F5C\u54C1\u96C6\\webapi using httpclient\\webapi using httpclient\\formcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|solutionrelative:webapi using httpclient\\formcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\StorePOSforOrders.csproj|c:\\asp net\u4F5C\u54C1\u96C6\\webapi using httpclient\\webapi using httpclient\\formcashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\StorePOSforOrders.csproj|solutionrelative:webapi using httpclient\\formcashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\webapi using httpclient\\formcashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|solutionrelative:webapi using httpclient\\formcashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\webapi using httpclient\\formmakeorders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|solutionrelative:webapi using httpclient\\formmakeorders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\webapi using httpclient\\formmakeorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|solutionrelative:webapi using httpclient\\formmakeorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\webapi using httpclient\\formmakeorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|solutionrelative:webapi using httpclient\\formmakeorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\webapi using httpclient\\formcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E56C324-0EB1-4679-A803-87F58B48877B}|WebAPI using HttpClient\\WebAPI using HttpClient.csproj|solutionrelative:webapi using httpclient\\formcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCashier.Designer.cs",
+              "DocumentMoniker": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormCashier.Designer.cs",
+              "RelativeDocumentMoniker": "WebAPI using HttpClient\\FormCashier.Designer.cs",
+              "ToolTip": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormCashier.Designer.cs",
+              "RelativeToolTip": "WebAPI using HttpClient\\FormCashier.Designer.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:10:30.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMakeOrders.Designer.cs",
+              "DocumentMoniker": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormMakeOrders.Designer.cs",
+              "RelativeDocumentMoniker": "WebAPI using HttpClient\\FormMakeOrders.Designer.cs",
+              "ToolTip": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormMakeOrders.Designer.cs",
+              "RelativeToolTip": "WebAPI using HttpClient\\FormMakeOrders.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:02:13.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCashier.Designer.cs",
+              "DocumentMoniker": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormCashier.Designer.cs",
+              "RelativeDocumentMoniker": "WebAPI using HttpClient\\FormCashier.Designer.cs",
+              "ToolTip": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormCashier.Designer.cs",
+              "RelativeToolTip": "WebAPI using HttpClient\\FormCashier.Designer.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:01:26.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMakeOrders.cs",
+              "DocumentMoniker": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormMakeOrders.cs",
+              "RelativeDocumentMoniker": "WebAPI using HttpClient\\FormMakeOrders.cs",
+              "ToolTip": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormMakeOrders.cs",
+              "RelativeToolTip": "WebAPI using HttpClient\\FormMakeOrders.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA4wB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:08:00.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMakeOrders.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormMakeOrders.cs",
+              "RelativeDocumentMoniker": "WebAPI using HttpClient\\FormMakeOrders.cs",
+              "ToolTip": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormMakeOrders.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "WebAPI using HttpClient\\FormMakeOrders.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:05:05.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCashier.cs",
+              "DocumentMoniker": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormCashier.cs",
+              "RelativeDocumentMoniker": "WebAPI using HttpClient\\FormCashier.cs",
+              "ToolTip": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormCashier.cs",
+              "RelativeToolTip": "WebAPI using HttpClient\\FormCashier.cs",
+              "ViewState": "AQIAAOoBAAAAAAAAAAAlwPQBAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:52:17.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormCashier.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormCashier.cs",
+              "RelativeDocumentMoniker": "WebAPI using HttpClient\\FormCashier.cs",
+              "ToolTip": "C:\\ASP NET\u4F5C\u54C1\u96C6\\WebAPI using HttpClient\\WebAPI using HttpClient\\FormCashier.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "WebAPI using HttpClient\\FormCashier.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:58:33.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
