@@ -37,5 +37,4 @@ Vita實體店面下單POS機點餐功能設計
 
 - 下單
 
-![700x350_default(1)]
-(https://github.com/simonwu513/POSProductOrder/blob/main/%E8%BC%B8%E5%85%A5%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99%E3%80%81%E4%B8%8B%E8%A8%82%E8%A8%82%E5%96%AE.png)
+![700x350_default(1)](https://github.com/simonwu513/POSProductOrder/blob/main/%E8%BC%B8%E5%85%A5%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99%E3%80%81%E4%B8%8B%E8%A8%82%E8%A8%82%E5%96%AE.png)
